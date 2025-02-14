@@ -1,0 +1,5 @@
+{
+    "rpc_address": "wss://node.xelis.io/json_rpc",
+    "discord_webhook": "https://discord.com/api/webhooks/YOUR_WEBHOOK_URL",
+    "miner_address": "xel:YOUR_MINER_ADDRESS"
+}
