@@ -49,6 +49,14 @@ Edit the `config.json` file in the project directory with your own webhook and m
 python3 main.py
 ```
 
+### Starting the script from outside the Virtual Environment 
 
+```sh
+./venv/bin/python3.11 main.py
+```
+
+### Running in the background
+
+Either run it in a screen or make a service that runs the above command.
 
 
